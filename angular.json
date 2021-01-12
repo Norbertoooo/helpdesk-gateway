@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "helpdesk-gateway"
+    }
+  },
+  "defaultProject": "helpdesk-gateway",
+  "cli": {
+    "analytics": "16014c02-d573-4cc0-bad9-7a8632f46e1b"
+  }
 }
